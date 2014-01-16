@@ -11,5 +11,4 @@ class User < ActiveRecord::Base
            :class_name => "Response",
            :foreign_key => :user_id
 
-
 end
